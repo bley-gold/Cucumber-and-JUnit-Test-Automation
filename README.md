@@ -2,6 +2,14 @@
 
 This project demonstrates automated testing of the Zoho CRM lead creation process using Cucumber and JUnit.
 
+## Cucumber
+![Screenshot 1](https://github.com/bley-gold/Cucumber-and-JUnit-Test-Automation/blob/master/CucumberTesting.png)
+
+
+## JUnit
+![Screenshot 2](https://github.com/bley-gold/Cucumber-and-JUnit-Test-Automation/blob/master/junitTesting.png)
+
+
 ## Prerequisites
 
 - Java JDK 8 or higher
